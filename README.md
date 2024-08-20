@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/luthfi/happybirthday
+    $ git clone (https://github.com/muhammadluthfi24/Spesialuntumu)
 
     # Go into the repository
     $ cd happybirthday
